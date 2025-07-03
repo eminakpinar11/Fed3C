@@ -1,0 +1,17 @@
+Copyright (c) 2025 Emin Akpınar
+
+All rights reserved.
+
+This repository contains the proprietary code for the Fed3C method:  
+**Federated Clustering-Based Centralized Classification**.
+
+The code is provided solely for academic peer review purposes and is not open source.
+
+Without prior written permission from the author, you may NOT:
+- Use this code for your own research or publications,
+- Reproduce, redistribute, or modify any part of it,
+- Claim ownership or create derivative works based on this code.
+
+The author reserves all intellectual property rights.
+
+Unauthorized use of this code may constitute academic misconduct.
