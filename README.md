@@ -22,5 +22,5 @@ This project is protected by a custom license. See `LICENSE.txt` for details.
 ## Contact
 
 **Emin Akpınar**  
-Research Assistant, Yıldız Technical University  
+Research Assistant, Yildiz Technical University  
 📧 emin.akpinar@yildiz.edu.tr
