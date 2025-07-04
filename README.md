@@ -3,7 +3,7 @@
 This repository contains the official implementation of **Fed3C**, a novel federated learning method proposed in the submitted manuscript:
 
 **"Fed3C: Federated Clustering-Based Centralized Classification"**  
-*Emin Akpınar, 2025 (Under Review)*
+*Emin Akpinar, 2025 (Under Review)*
 
 ## ⚠️ Important Notice
 
