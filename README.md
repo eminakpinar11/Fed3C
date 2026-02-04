@@ -1,23 +1,30 @@
 # Fed3C: Federated Clustering-Based Centralized Classification
 
-This repository contains the official implementation of **Fed3C**, a novel federated learning method proposed in the submitted manuscript:
+This repository contains the **official implementation** of **Fed3C**, a federated learning method published in:
 
-**"Fed3C: Federated Clustering-Based Centralized Classification"**  
-*Emin Akpinar, 2025 (Under Review)*
+**Fed3C: Federated Clustering-Based Centralized Classification**  
+Emin Akpinar, Bulent Bolat, Murat Taskiran  
+*Knowledge and Information Systems*, 2026
 
-## ⚠️ Important Notice
-
-This repository is part of a **manuscript currently under peer review**.
-
-- The code is provided **solely for the purpose of peer review**.
-- **Unauthorized use, reproduction, redistribution, or adaptation is strictly prohibited.**
-- Do not reuse any part of this code in your own work without explicit permission from the author.
-
-## License
-
-This project is protected by a custom license. See `LICENSE.txt` for details.
+📄 **Published Article**  
+https://link.springer.com/article/10.1007/s10115-025-02650-9
 
 ---
+
+## 📌 Citation
+
+If you use this code or build upon the Fed3C method, **please cite the following paper**:
+
+@article{akpinar2026fed3c,
+  title={Fed3C: federated clustering-based centralized classification},
+  author={Akpinar, Emin and Bolat, Bulent and Taskiran, Murat},
+  journal={Knowledge and Information Systems},
+  volume={68},
+  number={1},
+  pages={40},
+  year={2026},
+  publisher={Springer}
+}
 
 ## Contact
 
