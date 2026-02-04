@@ -15,6 +15,7 @@ https://link.springer.com/article/10.1007/s10115-025-02650-9
 
 If you use this code or build upon the Fed3C method, **please cite the following paper**:
 
+```bibtex
 @article{akpinar2026fed3c,
   title={Fed3C: federated clustering-based centralized classification},
   author={Akpinar, Emin and Bolat, Bulent and Taskiran, Murat},
@@ -25,6 +26,7 @@ If you use this code or build upon the Fed3C method, **please cite the following
   year={2026},
   publisher={Springer}
 }
+
 
 ## Contact
 
