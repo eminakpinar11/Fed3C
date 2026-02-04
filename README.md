@@ -17,7 +17,7 @@ If you use this code or build upon the Fed3C method, **please cite the following
 
 ```bibtex
 @article{akpinar2026fed3c,
-  title={Fed3C: federated clustering-based centralized classification},
+  title={Fed3C: federated clustering-based centralized classification: E. Akpinar et al.},
   author={Akpinar, Emin and Bolat, Bulent and Taskiran, Murat},
   journal={Knowledge and Information Systems},
   volume={68},
