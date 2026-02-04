@@ -1,17 +1,45 @@
-Copyright (c) 2025 Emin Akpınar
+Copyright (c) 2026 Emin Akpinar
 
-All rights reserved.
+This repository contains the official implementation of the Fed3C method
+published in:
 
-This repository contains the proprietary code for the Fed3C method:  
-**Federated Clustering-Based Centralized Classification**.
+“Fed3C: Federated Clustering-Based Centralized Classification”
+E. Akpinar, B. Bolat, M. Taskiran
+Knowledge and Information Systems, 2026.
 
-The code is provided solely for academic peer review purposes and is not open source.
+------------------------------------------------------------
 
-Without prior written permission from the author, you may NOT:
-- Use this code for your own research or publications,
-- Reproduce, redistribute, or modify any part of it,
-- Claim ownership or create derivative works based on this code.
+PERMITTED USE
 
-The author reserves all intellectual property rights.
+This code is provided for academic and research purposes.
 
-Unauthorized use of this code may constitute academic misconduct.
+You are allowed to:
+- Use the code for non-commercial academic research,
+- Reproduce experimental results reported in the associated publication,
+- Modify and redistribute the code or derived works,
+  provided that proper citation to the original publication is given.
+
+------------------------------------------------------------
+
+RESTRICTIONS
+
+You may NOT:
+- Use this code for commercial purposes,
+- Claim authorship or ownership of this work,
+- Remove or alter references to the original publication.
+
+------------------------------------------------------------
+
+DISCLAIMER
+
+This code is provided "as is", without warranty of any kind.
+The authors are not responsible for any misuse or damage
+resulting from the use of this code.
+
+------------------------------------------------------------
+
+For permissions beyond the scope of this license, please contact:
+
+Emin Akpinar  
+Research Assistant, Yildiz Technical University  
+emin.akpinar@yildiz.edu.tr
